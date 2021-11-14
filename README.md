@@ -1,29 +1,10 @@
 # README
 
+This was created by following https://guides.rubyonrails.org/v5.2/getting_started.html
+
+# Helpful commands
+
+Get a terminal on the docker app server container:
 ```bash
 docker exec -it rails-web-1 bash
 ```
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# rails-5.2-getting-started-app
